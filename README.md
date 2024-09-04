@@ -1,4 +1,4 @@
-# Alpha EGS IPA repository
+# EGS IPA repository
 
 Celestial has partnered with Signulous and because of that they will be releasing ipa files after a few days. Signulous costs 20$, so I will post my modified ipa files in this repository. 
 
