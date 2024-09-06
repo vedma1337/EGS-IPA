@@ -20,7 +20,7 @@ Fortnite may crash on installation unless you're using TrollStore or a paid deve
 If you have a MapleSign, Signulous certificate, or TrollStore, you should be able to install the IPA directly.
 
 For users with their own paid certificate:
-1. Enable the following entitlements:
+1. Enable the following entitlements (otherwise it will crash):
    - **Extended Virtual Addressing**
    - **Increased Memory Limit**
 2. Sign the IPA with your certificate using your preferred signing method.
