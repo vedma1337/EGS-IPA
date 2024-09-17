@@ -1,12 +1,33 @@
-# EGS IPA repository
+# How to install Fortnite
 
-Celestial has partnered with Signulous and because of that they will be releasing ipa files after a few days. Signulous costs 20$, so I will post my non-modified and modified ipa's by me in this repository after the update releases.
+### Installing Fortnite with
+
+<details>
+<summary><h2>FlekStore (Recommended)</h2></summary>
+
+* **You can get your paid developer certificate via [FlekStore](https://flekstore.com/vedma1337) with a premium subscription for 2 months and easily install Fortnite via FlekStore**
+</details>
+
+<details>
+<summary><h2>Own paid developer certificate</h2></summary>
+
+* If you have your own paid developer certificate
+Enable these following entitlements if you don't have it (otherwise it will crash):
+   - **Extended Virtual Addressing**
+   - **Increased Memory Limit**
+2. Sign the IPA with your certificate using your preferred signing method.
+</details>
+
+<details>
+<summary><h2>TrollStore (16.0-17.0)</h2></summary>
+   
+* You can use [this guide](https://ios.cfw.guide/installing-trollstore) to get TrollStore, after this just install latest ipa from [Releases](https://github.com/vedma1337/EGS-IPA/releases/)
+</details>
 
 ## Support and news
 **Discord server:** [Mine](https://discord.gg/dJRQP8vJPp)
 
 **Celestial server:** [Celestial](https://discord.gg/celestialios)
-
 
 ---
 **Credits for the material below: Celestial**
@@ -14,25 +35,9 @@ Celestial has partnered with Signulous and because of that they will be releasin
 # Fortnite
 
 ## Installation Issues
-Fortnite may crash on installation unless you're using TrollStore or a paid developer certificate. Due to an Apple limitation that cannot be bypassed.
+Fortnite may crash on installation unless you're using TrollStore or a paid certificate from FlekStore or other certificate provider. Due to an Apple limitation that cannot be bypassed.
 
-## How to Install with an Apple Developer Certificate
-If you have a MapleSign, Signulous certificate, or TrollStore, you should be able to install the IPA directly.
-
-For users with their own paid certificate:
-1. Enable the following entitlements (otherwise it will crash):
-   - **Extended Virtual Addressing**
-   - **Increased Memory Limit**
-2. Sign the IPA with your certificate using your preferred signing method.
-
----
-
-# Fall Guys
-
-## How to Install
-Unlike Fortnite, Fall Guys doesn't require special entitlements to play. You can use [ESign](https://www.stabbed.lol/esign/ESignV5.0_noLogs_V1.1.ipa) with any certificate or [Sideloadly](https://sideloadly.io/) without a certificate. The latest update works with any signing method without crashing.
-
----
+If your download progress jumps from different percentages restart Fortnite and don't do anything, don't quit the game. Just wait
 
 ## FAQ
 
@@ -48,9 +53,7 @@ Unlike Fortnite, Fall Guys doesn't require special entitlements to play. You can
   - Fortnite performance may be reduced if you have less then 24gb of free space
 
 - How do i install Trollstore?
-  - if you are running iOS 15.0-17.0 then you can use [this guide](https://ios.cfw.guide/installing-trollstore)
-
----
+  - if you are running iOS 14.0-17.0 then you can use [this guide](https://ios.cfw.guide/installing-trollstore)
 
 ## Disclaimer
 The original applications are the property of their respective owners, including but not limited to Epic Games Inc. The modifications provided here are solely for personal use, and the original applications must be legally obtained. Redistribution of these modified versions is done for educational purposes only, and no ownership of the original content is claimed.
