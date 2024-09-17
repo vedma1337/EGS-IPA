@@ -7,7 +7,7 @@
 <details>
 <summary><h2>FlekStore (Recommended)</h2></summary>
 
-* **You can get your paid developer certificate via [FlekStore](https://flekstore.com/vedma1337) with a premium subscription for 2 months and easily install Fortnite via FlekStore**
+* **You can get your paid developer certificate via [FlekStore](https://flekstore.com/vedma1337) and get premium subscription for 2 months for free and easily install Fortnite via FlekStore**
 </details>
 
 <details>
