@@ -1,5 +1,7 @@
 # How to install Fortnite
 
+**Fortnite needs 4GB ram to launch, if your device has 3gb ram or lower you can't play fortnite. There is no bypass of it.**
+
 ### Installing Fortnite with
 
 <details>
