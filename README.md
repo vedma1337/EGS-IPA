@@ -2,6 +2,10 @@
 
 **Fortnite needs 4GB ram to launch, if your device has 3gb ram or lower you can't play fortnite. There is no bypass of it.**
 
+Download latest FN iPA
+> [CAHighFPS (Unlocked FPS)](https://github.com/vedma1337/EGS-IPA/releases/download/v31.20/Fortnite31.20+CAHighFPS.ipa)
+>
+> [Without CAHighFPS](https://github.com/vedma1337/EGS-IPA/releases/download/v31.20/Fortnite31.20.ipa)
 ### Installing Fortnite with
 
 <details>
@@ -23,7 +27,7 @@ Enable these following entitlements if you don't have it (otherwise it will cras
 <details>
 <summary><h2>TrollStore (16.0-17.0)</h2></summary>
    
-* You can use [this guide](https://ios.cfw.guide/installing-trollstore) to get TrollStore, after this just install latest ipa from [Releases](https://github.com/vedma1337/EGS-IPA/releases/)
+* You can use [this guide](https://ios.cfw.guide/installing-trollstore) to get TrollStore, after this just install latest ipa
 </details>
 
 ## Support and news
@@ -53,9 +57,6 @@ If your download progress jumps from different percentages restart Fortnite and 
 - Why is it so laggy
   - iPhones and iPads were never built for gaming despite what apple says
   - Fortnite performance may be reduced if you have less then 24gb of free space
-
-- How do i install Trollstore?
-  - if you are running iOS 14.0-17.0 then you can use [this guide](https://ios.cfw.guide/installing-trollstore)
 
 ## Disclaimer
 The original applications are the property of their respective owners, including but not limited to Epic Games Inc. The modifications provided here are solely for personal use, and the original applications must be legally obtained. Redistribution of these modified versions is done for educational purposes only, and no ownership of the original content is claimed.
