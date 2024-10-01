@@ -1,3 +1,5 @@
+**Epic added a requirement for 4GB of ram to download game (before that u was able to download game and grab ipa) and because u can't download game = u can't grab ipa. The problem that device u can use for grabbing ipa is only ipad 7 because it has ios 18 and you can install trollstore on it for grabbing ipa, if someone makes a tweak for ram spoofing, then the ipa's will be back.**
+
 # How to install Fortnite
 
 **Fortnite needs 4GB ram to launch, if your device has 3gb ram or lower you can't play fortnite. There is no bypass of it.**
