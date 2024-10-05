@@ -5,7 +5,7 @@
 Download latest FN iPA
 > [CAHighFPS (Unlocked FPS)](https://github.com/vedma1337/EGS-IPA/releases/download/v31.30/Fortnite31.30+CAHighFPS.ipa)
 >
-> [Without CAHighFPS](https://github.com/vedma1337/EGS-IPA/releases/download/v31.20/Fortnite31.30.ipa)
+> [Without CAHighFPS](https://github.com/vedma1337/EGS-IPA/releases/download/v31.30.1/Fortnite31.30.1.ipa)
 ### Installing Fortnite with
 
 <details>
