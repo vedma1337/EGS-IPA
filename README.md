@@ -3,9 +3,9 @@
 **Fortnite needs 4GB ram to launch, if your device has 3gb ram or lower you can't play fortnite. There is no bypass of it.**
 
 Download latest FN iPA
-> [CAHighFPS (Unlocked FPS)](https://github.com/vedma1337/EGS-IPA/releases/download/v31.40/Fortnite-31.40+CAHighFPS.ipa)
+> [CAHighFPS (Unlocked FPS)](https://github.com/vedma1337/EGS-IPA/releases/download/v31.40.1/Fortnite-31.40.1+CAHighFPS.ipa)
 >
-> [Without CAHighFPS](https://github.com/vedma1337/EGS-IPA/releases/download/v31.40/Fortnite-31.40.ipa)
+> [Without CAHighFPS](https://github.com/vedma1337/EGS-IPA/releases/download/v31.40.1/Fortnite-31.40.1.ipa)
 ### Installing Fortnite with
 
 <details>
