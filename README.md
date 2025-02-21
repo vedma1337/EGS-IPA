@@ -37,8 +37,6 @@ Enable these following entitlements if you don't have it (otherwise it will cras
 ## Support and news
 **Discord server:** [Mine](https://discord.gg/dJRQP8vJPp)
 
-**Celestial server:** [Celestial](https://discord.gg/celestialios)
-
 ---
 
 # Fortnite
