@@ -40,7 +40,6 @@ Enable these following entitlements if you don't have it (otherwise it will cras
 **Celestial server:** [Celestial](https://discord.gg/celestialios)
 
 ---
-**Credits for the material below: Celestial**
 
 # Fortnite
 
